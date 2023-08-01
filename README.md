@@ -1,2 +1,3 @@
 # Museum-Space
-Aplicación movil para la búsqueda de imágenes de www.eso.com en un museo
+Aplicación móvil para la busqueda de imágenes espaciales en el museo de www.eso.org
+
